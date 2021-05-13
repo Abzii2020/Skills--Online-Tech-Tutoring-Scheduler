@@ -1,0 +1,9 @@
+User		Activity	Date and Time
+athomas	Successful Login	Sunday 2nd of May 2021 12:39:16 AM	
+athomas	Appointment Set Successfully 	Sunday 2nd of May 2021 08:33:06 AM
+athomas	Successful Login	Sunday 2nd of May 2021 07:10:27 AM	
+rebecca123	Successful Login	Sunday 2nd of May 2021 07:17:56 AM	
+admin	Successful Login	Sunday 2nd of May 2021 03:29:13 PM
+admin	Successful Login	Sunday 2nd of May 2021 03:41:46 PM
+athomas	Successful Login	Sunday 2nd of May 2021 03:56:37 PM	
+admin	Successful Login	Sunday 2nd of May 2021 04:54:16 PM
